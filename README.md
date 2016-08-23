@@ -5,3 +5,5 @@ Here's some text that I'm adding now, to show that this is a new change made in 
 I added line 5 a few days later.
 
 Then this a moment later.
+
+This i changed but pushed straight to master with no pull request.
