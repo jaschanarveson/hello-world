@@ -7,3 +7,5 @@ I added line 5 a few days later.
 Then this a moment later.
 
 This i changed but pushed straight to master with no pull request.
+
+*** Now i'm editing in Atom! ***
